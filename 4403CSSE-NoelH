@@ -44,7 +44,8 @@
         <a href="#about"><button>About the Wesbite</button></a>
         <a href="#course"><button>disclaimer</button></a>
  		<a href="#course"><button>Course</button></a>
-        <a href="#CSSELinkt"><button>KSU CSSE Link</button></a>
+        <a href="#CSSELink"><button>KSU CSSE Link</button></a>
+		<a href="#excerise"><button>excerises</button></a>
     </nav>
 
     <!-- Section 1: Title -->

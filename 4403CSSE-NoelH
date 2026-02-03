@@ -41,23 +41,23 @@
 
    <nav>
         <a href="#title"><button>Home</button></a>
-        <a href="#about"><button>About Me</button></a>
+        <a href="#about"><button>About the Wesbite</button></a>
         <a href="#course"><button>disclaimer</button></a>
- 	<a href="#course"><button>Course</button></a>
-        <a href="#contact"><button>Contact</button></a>
+ 		<a href="#course"><button>Course</button></a>
+        <a href="#CSSELinkt"><button>KSU CSSE Link</button></a>
     </nav>
 
     <!-- Section 1: Title -->
     <section id="title">
         <h1>Welcome to Noel Hartfield Website</h1>
-        <p>Information Technology Student in Kennesaw State University</p>
+        <p>Information Technology Student at Kennesaw State University</p>
     </section>
 
     <!-- Section 2: Website purpose-->
     <section id="about">
         <h2> Website description</h2>
         <p>
-            This website is to post my work and thought process for My IT 4403 course
+            This website is to post my work and thought process for my IT 4403 course
         </p>
     </section>
 
@@ -76,6 +76,12 @@
         <p>
           This website is for the sole purpose of creating and posting projects for IT 4403
         </p>
+ 
+    </section>
+
+<!-- Section 4: CCSE Link -->
+    <section id="CSSELink">
+        <h2>What this site is about </h2>
  	<p>
         This is a link to the CSSE Department of IT Website for any questions or concerns
         <a href="https://www.kennesaw.edu/ccse/academics/information-technology/" target="_blank">
@@ -83,7 +89,6 @@
         </a>
     	</p>
     </section>
-    
 
     <!-- Section 5: Project and exercises -->
  <div id="excerise" class="page">
